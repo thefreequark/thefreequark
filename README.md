@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thefreequark Kaushik
-- 👀 I’m interested in physics and finance
-- 🌱 I’m currently learning machine learning in finance
+- 👀 I’m interested in physics and finance, data science, machine learning
+- 🌱 I’m currently learning machine learning in finance and data analytics 
 - 💞️ I’m looking to collaborate on finance model building projects and analysis
 - 📫 You can mail me at kkaushik@iitg.ac.in
 
